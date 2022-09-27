@@ -32,13 +32,14 @@ while True:
 This is not nessacry or usefull
 
 ### Reflection
-There was nothing difficult about this one it was rather straight forward and well explained in the instructions for the assignment.
+There was nothing difficult about this one it was rather straight forward and well explained in the instructions for the assignment. I also really cant make more than 2 sentences for this.
 
 
 
 ## CircuitPython_Servo
 
 ### Description & Code
+to make a servo spin 180 degrees back and forther over and over again.
 
 ```
 #SPDX-FileCopyrightText: 2018 Kattni Rembor for Adafruit Industries
@@ -71,10 +72,11 @@ while True:
 ![name](https://github.com/Ncrawfo72/CircuitPython/blob/master/mediA/ezgif-5-2b061592f3.gif)
 
 ### Wiring
+![name](https://github.com/Ncrawfo72/CircuitPython/blob/master/mediA/spinnerwiring.png)
 
 ### Reflection
 
-
+The most difficult part of this assignment was probably honestly figuring out how to make the servo spin only 180 degrees before turing around and doing another 180 over and over again. I could get the servo to spin no problem, but making constraints for it was diffucult. I would eventually figure it out though with help from peers.
 
 
 ## CircuitPython_LCD
