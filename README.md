@@ -32,7 +32,7 @@ while True:
 This is not nessacry or usefull
 
 ### Reflection
-
+There was nothing difficult about this one it was rather straight forward and well explained in the instructions for the assignment.
 
 
 
@@ -40,14 +40,35 @@ This is not nessacry or usefull
 
 ### Description & Code
 
-```python
-Code goes here
+```
+#SPDX-FileCopyrightText: 2018 Kattni Rembor for Adafruit Industries
+#
+# SPDX-License-Identifier: MIT
 
+"""CircuitPython Essentials Servo standard servo example"""
+import time
+import board
+import pwmio
+from adafruit_motor import servo
+
+# create a PWMOut object on Pin A2.
+pwm = pwmio.PWMOut(board.D3, duty_cycle=2 ** 15, frequency=50)
+
+# Create a servo object, my_servo.
+my_servo = servo.Servo(pwm)
+
+while True:
+    for angle in range(0, 180, 10):  # 0 - 180 degrees, 5 degrees at a time.
+        my_servo.angle = angle
+        time.sleep(0.05)
+    for angle in range(180, 0, -10): # 180 - 0 degrees, 5 degrees at a time.
+        my_servo.angle = angle
+        time.sleep(0.05)
 ```
 
 ### Evidence
 
-Pictures / Gifs of your work should go here.  You need to communicate what your thing does.
+![name](https://github.com/Ncrawfo72/CircuitPython/blob/master/mediA/ezgif-5-2b061592f3.gif)
 
 ### Wiring
 
