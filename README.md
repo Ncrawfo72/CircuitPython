@@ -122,9 +122,10 @@ while True:                                 #[19-30] Code to add and subtract
 ![name](https://github.com/Ncrawfo72/CircuitPython/blob/master/mediA/ezgif-5-6bbf43e87e.gif)
 
 ### Wiring
+![name](https://github.com/Ncrawfo72/CircuitPython/blob/master/mediA/Screenshot%202022-09-16%20153844.png)
 
 ### Reflection
-
+This assignment was really difficult and I barley had it working in the video it foes work, but goes to the wrong color at the very end and doesnt change. Meaning the highest color calue is also the lowewst color value in extreme cases. This was also confusing in just how the code actually works cause I barley understand how its actually is working.
 
 
 
