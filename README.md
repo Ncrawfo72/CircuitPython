@@ -69,7 +69,7 @@ while True:
 
 ### Evidence
 
-![name](https://github.com/Ncrawfo72/CircuitPython/blob/master/mediA/ezgif-5-2b061592f3.gif)
+![name](https://github.com/Ncrawfo72/CircuitPython/blob/master/mediA/ezgif-1-6d209f0424.gif)
 
 ### Wiring
 ![name](https://github.com/Ncrawfo72/CircuitPython/blob/master/mediA/spinnerwiring.png)
