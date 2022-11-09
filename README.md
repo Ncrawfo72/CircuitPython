@@ -208,20 +208,3 @@ while True:
 ### wiring
 
 ### Reflection
-
-
-
-## NextAssignment
-
-### Description & Code
-
-```python
-Code goes here
-
-```
-
-### Evidence
-
-### Wiring
-
-### Reflection
