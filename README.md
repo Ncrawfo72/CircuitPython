@@ -188,7 +188,7 @@ This was by far the most difficult one to do and I struggled to do it, but with 
 
 ### Code
 
-```
+```python
 import board
 import time
 from analogio import AnalogOut, AnalogIn
@@ -200,7 +200,8 @@ pot = AnalogIn(board.A0)
 while True:
     print(simpleio.map_range(pot.value, 96, 65520, 0, 65535))
     motor.value = int(simpleio.map_range(pot.value, 96, 65520, 0, 65535))
-    time.sleep(.1)  ```
+    time.sleep(.1)  
+```
     
     
-    ### wow
+  
