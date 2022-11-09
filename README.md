@@ -186,6 +186,8 @@ This was by far the most difficult one to do and I struggled to do it, but with 
 
 ### Description
 
+create a motor that is controlled via a poteniometer and when the value is increased the speed is increased and vis versa. Basically a motor controlled by a poteniometer.
+
 ### Code
 
 ```python
@@ -206,6 +208,9 @@ while True:
 ### proof
 
 ![name](https://github.com/Ncrawfo72/CircuitPython/blob/master/mediA/ezgif-5-4b1b22c45d.gif)
+
+
+### Wiring
 
 
 ### Reflection
