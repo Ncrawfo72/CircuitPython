@@ -205,7 +205,7 @@ while True:
 
 ### proof
 
-!=[name](https://github.com/Ncrawfo72/CircuitPython/blob/master/mediA/ezgif-5-4b1b22c45d.gif)
+![name](https://github.com/Ncrawfo72/CircuitPython/blob/master/mediA/ezgif-5-4b1b22c45d.gif)
 
 
 ### Reflection
