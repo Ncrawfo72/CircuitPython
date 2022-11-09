@@ -202,6 +202,5 @@ while True:
     motor.value = int(simpleio.map_range(pot.value, 96, 65520, 0, 65535))
     time.sleep(.1)  
 ```
-    
-    
-  
+
+### wow
